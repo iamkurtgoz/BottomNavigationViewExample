@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationExample</string>
+    <string name="profile">Profil</string>
+    <string name="notifications">Bildirimler</string>
+    <string name="share">Paylaş</string>
+    <string name="search">Ara</string>
+    <string name="home">Anasayfa</string>
+</resources>
